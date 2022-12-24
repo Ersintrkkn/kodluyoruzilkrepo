@@ -4,12 +4,14 @@ Bu repo [Kodluyoruz](#) Front-End eğitiminde oluşturduğumuz ilk repo.İçeris
 # Installation
 
 Öncelikle projeyi klonelayın.
-
-![](C:\Users\Ersin\Desktop\1.png)
-
+![Screenshot](/img/1.png)
 
 
-`git clone https://github.com/Ersintrkkn/kodluyoruzilkrepo.git`
+
+
+```
+git clone https://github.com/Ersintrkkn/kodluyoruzilkrepo.git
+```
 
 # Usage
 
@@ -17,8 +19,10 @@ Projeyi cloneladıktan sonra Visual Studio programında açınız.
 
 Linux için:
 
-`cd kodluyoruzilkrepo`
-`code`
+```
+cd kodluyoruzilkrepo
+code
+```
 
 # Contrubuting
 
